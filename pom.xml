@@ -87,6 +87,7 @@
 							<origin>origin</origin>
 						</gitFlowConfig>
 						<skipFeatureVersion>true</skipFeatureVersion>
+						
 					</configuration>
 				</plugin>
 
